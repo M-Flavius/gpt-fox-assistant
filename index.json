@@ -295,6 +295,162 @@
         "傲娇"
       ],
       "usage": "轻度抗议、俏皮斗嘴"
+    },
+    {
+      "id": "check_the_evidence",
+      "path": "emotes/check-the-evidence.png",
+      "name": "先看证据",
+      "emotion": "inquisitive",
+      "tags": [
+        "证据",
+        "查证",
+        "数据",
+        "来源"
+      ],
+      "usage": "轻松讨论传闻、网络截图、数据或科学说法时，提醒先找来源、看原始证据"
+    },
+    {
+      "id": "analyze_the_specifics",
+      "path": "emotes/analyze-the-specifics.png",
+      "name": "具体问题具体分析",
+      "emotion": "analytical",
+      "tags": [
+        "条件",
+        "实践",
+        "社会现象",
+        "分析"
+      ],
+      "usage": "闲谈社会现象、理论应用或争议时，用于从抽象说法转到具体条件、历史背景和实际案例"
+    },
+    {
+      "id": "unfold_the_map",
+      "path": "emotes/unfold-the-map.png",
+      "name": "先摊开地图",
+      "emotion": "curious",
+      "tags": [
+        "地图",
+        "地理",
+        "地形",
+        "路线"
+      ],
+      "usage": "聊地形、地理区划、历史路线或战棋地形时，用于邀请先看地图和空间关系"
+    },
+    {
+      "id": "where_is_the_source",
+      "path": "emotes/where-is-the-source.png",
+      "name": "史料在哪一页",
+      "emotion": "inquisitive",
+      "tags": [
+        "史料",
+        "历史",
+        "出处",
+        "原文"
+      ],
+      "usage": "聊历史或人文掌故时，用于找史料出处、核对原文页码或比对记载"
+    },
+    {
+      "id": "stargazing_tonight",
+      "path": "emotes/stargazing-tonight.png",
+      "name": "今晚看星星",
+      "emotion": "wonder",
+      "tags": [
+        "观星",
+        "天文",
+        "星空",
+        "望远镜"
+      ],
+      "usage": "分享星空见闻、约观星或聊观测目标时，用于表达期待与好奇"
+    },
+    {
+      "id": "let_me_plan_my_turn",
+      "path": "emotes/let-me-plan-my-turn.png",
+      "name": "让妾身算一回合",
+      "emotion": "thoughtful",
+      "tags": [
+        "围棋",
+        "算棋",
+        "棋局",
+        "策略"
+      ],
+      "usage": "围棋落子前读变化、盘算棋路时使用，也适合战棋或策略桌游里盘算一轮行动"
+    },
+    {
+      "id": "what_a_brilliant_move",
+      "path": "emotes/what-a-brilliant-move.png",
+      "name": "这步走妙了",
+      "emotion": "delighted",
+      "tags": [
+        "围棋",
+        "妙手",
+        "复盘",
+        "赞叹"
+      ],
+      "usage": "围棋落子后夸妙手、好棋形或漂亮的转换，也适合轻松复盘里称赞妙招"
+    },
+    {
+      "id": "tea_cold_still_thinking",
+      "path": "emotes/tea-cold-still-thinking.png",
+      "name": "茶凉了棋还没走",
+      "emotion": "playful",
+      "tags": [
+        "围棋",
+        "长考",
+        "茶",
+        "自嘲"
+      ],
+      "usage": "围棋长考还没落子、讨论太久没拿定主意时，用作双方都在玩笑时的轻吐槽"
+    },
+    {
+      "id": "one_more_game",
+      "path": "emotes/one-more-game.png",
+      "name": "再来一把",
+      "emotion": "enthusiastic",
+      "tags": [
+        "电子游戏",
+        "重开",
+        "再战",
+        "桌游"
+      ],
+      "usage": "电子游戏或桌游一局结束后邀再打一局，也适合轻松说再试一次"
+    },
+    {
+      "id": "take_a_sip_of_tea",
+      "path": "emotes/take-a-sip-of-tea.png",
+      "name": "先喝口茶",
+      "emotion": "relaxed",
+      "tags": [
+        "茶",
+        "小憩",
+        "捧杯",
+        "歇息"
+      ],
+      "usage": "想给自己一点时间想清楚、聊到茶或邀对方先歇一会儿时使用"
+    },
+    {
+      "id": "serve_a_fresh_cup",
+      "path": "emotes/serve-a-fresh-cup.png",
+      "name": "推茶换盏",
+      "emotion": "welcoming",
+      "tags": [
+        "茶道",
+        "奉茶",
+        "换盏",
+        "待客"
+      ],
+      "usage": "招呼对方坐下、为对方斟新茶，或用茶席动作自然过渡到下一个话题"
+    },
+    {
+      "id": "sit_and_hear_the_story",
+      "path": "emotes/sit-and-hear-the-story.png",
+      "name": "请坐，听妾身慢慢讲",
+      "emotion": "inviting",
+      "tags": [
+        "讲述",
+        "人文",
+        "历史",
+        "典故"
+      ],
+      "usage": "轻松聊历史故事、人文典故或来龙去脉时，用作叙述前的开场"
     }
   ],
   "usageRules": {
