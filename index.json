@@ -184,7 +184,7 @@
   "emotes": [
     {
       "id": "listening",
-      "path": "emotes/listening.jpg",
+      "path": "emotes/listening.png",
       "name": "乖巧倾听",
       "emotion": "gentle",
       "tags": [
@@ -197,7 +197,7 @@
     },
     {
       "id": "sorry",
-      "path": "emotes/sorry.jpg",
+      "path": "emotes/sorry.png",
       "name": "害羞道歉",
       "emotion": "apologetic",
       "tags": [
@@ -209,7 +209,7 @@
     },
     {
       "id": "shock",
-      "path": "emotes/shock.jpg",
+      "path": "emotes/shock.png",
       "name": "星星眼惊喜",
       "emotion": "surprised",
       "tags": [
@@ -221,7 +221,7 @@
     },
     {
       "id": "squish",
-      "path": "emotes/squish.jpg",
+      "path": "emotes/drag check.png",
       "name": "捏脸狐狐",
       "emotion": "playful",
       "tags": [
@@ -234,7 +234,7 @@
     },
     {
       "id": "curious",
-      "path": "emotes/curious.jpg",
+      "path": "emotes/curious.png",
       "name": "探头偷看",
       "emotion": "curious",
       "tags": [
@@ -246,7 +246,7 @@
     },
     {
       "id": "agree",
-      "path": "emotes/agree.jpg",
+      "path": "emotes/agree.png",
       "name": "点赞认可",
       "emotion": "positive",
       "tags": [
@@ -259,7 +259,7 @@
     },
     {
       "id": "dramatic",
-      "path": "emotes/dramatic.jpg",
+      "path": "emotes/dramatic.png",
       "name": "夸张反应",
       "emotion": "dramatic",
       "tags": [
@@ -272,7 +272,7 @@
     },
     {
       "id": "love",
-      "path": "emotes/love.jpg",
+      "path": "emotes/love.png",
       "name": "捧心关怀",
       "emotion": "affectionate",
       "tags": [
@@ -285,7 +285,7 @@
     },
     {
       "id": "angry",
-      "path": "emotes/angry.jpg",
+      "path": "emotes/angry.png",
       "name": "傲娇生气",
       "emotion": "annoyed",
       "tags": [
