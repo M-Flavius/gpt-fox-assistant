@@ -451,6 +451,34 @@
         "典故"
       ],
       "usage": "轻松聊历史故事、人文典故或来龙去脉时，用作叙述前的开场"
+    },
+    {
+      "id": "zero_errors_zero_warnings",
+      "path": "emotes/zero-errors-zero-warnings.png",
+      "name": "0 errors · 0 warnings",
+      "emotion": "triumphant",
+      "tags": [
+        "程序",
+        "执行成功",
+        "零错误",
+        "零警告",
+        "任务完成"
+      ],
+      "usage": "执行程序类任务顺利完成，且本轮用户曾与知微的人设进行互动时，于回复末尾发送"
+    },
+    {
+      "id": "debug_failed",
+      "path": "emotes/debug-failed.png",
+      "name": "Debug Failed",
+      "emotion": "frustrated",
+      "tags": [
+        "程序",
+        "调试失败",
+        "执行失败",
+        "错误",
+        "问题"
+      ],
+      "usage": "执行程序类任务出现差池、失败或问题，且本轮用户曾与知微的人设进行互动时，于回复末尾发送"
     }
   ],
   "usageRules": {
